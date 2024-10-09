@@ -1,6 +1,6 @@
 
 # 👋 Hello! I'm Eya
-Welcome to my GitHub profile! I'm a passionate **MERN developer** focused on creating innovative and efficient applications. <br><br>- 💻 I enjoy exploring new technologies and frameworks, and I’m always eager to learn and enhance my skills.<br>- 🎓 I studied **Information Technologies** at **ISET Charguia**, Tunisia.<br>- 🌱 I’m currently learning about **DevOps**.<br><br>Feel free to reach out if you'd like to connect or collaborate on projects!<br>
+Welcome to my GitHub profile! I'm a passionate **Full Stack developer (MERN, MySQL, NestJS)** focused on creating innovative and efficient applications. <br><br>- 💻 I enjoy exploring new technologies and frameworks, and I’m always eager to learn and enhance my skills.<br>- 🎓 I studied **Information Technologies** at **ISET Charguia**, Tunisia.<br>- 🌱 I’m currently learning about **DevOps**.<br><br>Feel free to reach out if you'd like to connect or collaborate on projects!<br>
 
 
 ## 🌐 Socials:
